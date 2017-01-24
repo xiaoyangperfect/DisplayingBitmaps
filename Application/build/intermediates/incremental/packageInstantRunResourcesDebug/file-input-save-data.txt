@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Jan 24 16:31:35 CST 2017
+2.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\empty_photo.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_fragment.xml
+4.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_grid_fragment.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main_menu.xml
+5.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+6.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
+10.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\image_detail_pager.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\photogrid_list_selector.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

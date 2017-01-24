@@ -1,0 +1,7 @@
+#Tue Jan 24 16:31:44 CST 2017
+base.0=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be45f411b1400e8790f1998fb8bc5a048cc1dc3b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d62ba61771ea55ff822a0e61255a9be081c0c32\\classes.dex
+base.1=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7d62ba61771ea55ff822a0e61255a9be081c0c32
+file.0=C\:\\workspace\\DisplayingBitmaps\\DisplayingBitmaps\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be45f411b1400e8790f1998fb8bc5a048cc1dc3b\\classes.dex

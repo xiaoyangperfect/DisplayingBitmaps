@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_af24c6428d36c7c9696a3f2183fbf7aa61be99d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23284bd84cbaf37a23f2d266d08a10ada03359ce">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be45f411b1400e8790f1998fb8bc5a048cc1dc3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_7d8e176701c0db2a9d0c16e200c9488e3c474758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fed9ccf28e005f150b07f38960a55941fc12099b">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7d62ba61771ea55ff822a0e61255a9be081c0c32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_2eee5bb3ed7d7cd0f3c9089a13a8774e84825ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangxiao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_88f50c4256b10aae70d7df38049dfcec61e19bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\workspace\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_ae82a6837bdd5830decc9dae69015bd18f83872d\classes.dex" />
+    </item>
+
+</items>
